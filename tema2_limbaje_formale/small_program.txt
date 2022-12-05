@@ -1,0 +1,15 @@
+forall n between 0 , k
+{
+flag : ok = green ;
+forall d between 2 , n 
+{
+if ( n % d is 0 )
+2ab
+ok = red ;
+}
+if ( ok = green )
+print n ;
+}
+
+
+
